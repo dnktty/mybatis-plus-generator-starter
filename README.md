@@ -63,4 +63,4 @@ public class BasicServerApplicationTest {
 
 ### 总结
 
-通过阅读mybatis-plus源码会发现其实还是有很多地方可以优化的，可以自己尝试pr，这是一个学习的过程
+通过阅读mybatis-plus源码会发现其实还是有很多地方可以优化的，可以自己尝试pr，这是一个自我提升的过程
